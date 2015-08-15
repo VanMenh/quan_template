@@ -1,0 +1,18 @@
+/* CSS Document */
+header h1, h2, h5{
+	text-transform:uppercase;	
+}
+header h1{
+	font-size:25px;
+}
+header h2{
+	font-size:18px;
+}
+.orange{
+	color:#fb8109;	
+}
+header h5{
+	color:#b3b3b3;
+	font-size:14px;
+}
+
